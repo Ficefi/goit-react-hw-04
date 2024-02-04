@@ -1,0 +1,12 @@
+.problem_container{
+    text-align: center;
+}
+
+.header_problem{
+    color: red;
+    font-size: 36px;
+}
+
+.problem{
+    font-size: 24px;
+}
